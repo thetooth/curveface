@@ -10,7 +10,7 @@ A library and server for receiving signed gface payloads via SPKI. Uses elliptic
 
 ## Roadmap
 - [ ] Automatic expiry of in-memory keys
-- [ ] IRC bot
+- [x] IRC bot
 - [ ] C/C++ library
 
 ## Building
